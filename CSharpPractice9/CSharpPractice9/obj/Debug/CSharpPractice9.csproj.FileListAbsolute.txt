@@ -1,0 +1,5 @@
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice9\CSharpPractice9\bin\Debug\CSharpPractice9.exe.config
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice9\CSharpPractice9\bin\Debug\CSharpPractice9.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice9\CSharpPractice9\bin\Debug\CSharpPractice9.pdb
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice9\CSharpPractice9\obj\Debug\CSharpPractice9.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice9\CSharpPractice9\obj\Debug\CSharpPractice9.pdb

@@ -1,0 +1,9 @@
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\bin\Debug\TicTacToeCSharpGame.exe.config
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\obj\Debug\TicTacToeCSharpGame.csprojResolveAssemblyReference.cache
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\obj\Debug\TicTacToeCSharpGame.Form1.resources
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\obj\Debug\TicTacToeCSharpGame.Properties.Resources.resources
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\obj\Debug\TicTacToeCSharpGame.csproj.GenerateResource.Cache
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\bin\Debug\TicTacToeCSharpGame.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\bin\Debug\TicTacToeCSharpGame.pdb
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\obj\Debug\TicTacToeCSharpGame.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\TicTacToeCSharpGame\TicTacToeCSharpGame\obj\Debug\TicTacToeCSharpGame.pdb

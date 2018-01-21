@@ -1,0 +1,6 @@
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice4\CSharpPractice4\bin\Debug\CSharpPractice4.exe.config
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice4\CSharpPractice4\obj\Debug\CSharpPractice4.csprojResolveAssemblyReference.cache
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice4\CSharpPractice4\bin\Debug\CSharpPractice4.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice4\CSharpPractice4\bin\Debug\CSharpPractice4.pdb
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice4\CSharpPractice4\obj\Debug\CSharpPractice4.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice4\CSharpPractice4\obj\Debug\CSharpPractice4.pdb

@@ -1,0 +1,6 @@
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice7\CSharpPractice7\bin\Debug\CSharpPractice7.exe.config
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice7\CSharpPractice7\bin\Debug\CSharpPractice7.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice7\CSharpPractice7\bin\Debug\CSharpPractice7.pdb
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice7\CSharpPractice7\obj\Debug\CSharpPractice7.csprojResolveAssemblyReference.cache
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice7\CSharpPractice7\obj\Debug\CSharpPractice7.exe
+C:\Users\slee5\Desktop\C# Basics - For Complete Beginners\CSharpPractice7\CSharpPractice7\obj\Debug\CSharpPractice7.pdb
